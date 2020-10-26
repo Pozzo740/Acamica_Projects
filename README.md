@@ -25,6 +25,6 @@
 
 **Keywords:** Python, Español, Clasificación multi clase, NLTK, spaCy, Lematización, Tokenización, Vectorización, TfIdf-Vectorizer, Scikit-Learn, GaussianNB, Logistic Regression, LinearSVC, Clasificación binaria, Importancia de atributos.
 
-/Users/josepozo/Downloads/Proyecto_3/Acamica_Projects/Multi bueno.png
+![](/Users/josepozo/Downloads/Proyecto_3/Acamica_Projects/Multi bueno.png)
 
-/Users/josepozo/Downloads/Proyecto_3/Acamica_Projects/Binario.png
+![](/Users/josepozo/Downloads/Proyecto_3/Acamica_Projects/Binario.png)
