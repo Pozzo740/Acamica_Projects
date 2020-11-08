@@ -22,7 +22,7 @@
 
 **Keywords:** Python, Español, Redes Neuronales, Keras, Adam, SGD, EarlyStopping, ModelCheckpoint, Matriz de Confusión, NLTK, spaCy, Lematización, Tokenización, Vectorización, TfIdf-Vectorizer, Scikit-Learn, LinearSVC, Clasificación binaria.
 
-![NN_Image](https://github.com/Pozzo740/Acamica_Projects/blob/main/NN_Image.png)
+![NN](https://user-images.githubusercontent.com/62853837/98484053-7386e080-21d2-11eb-9c6f-d7f7b138ff5b.png)
 
 ------------------------------------------------------------------------------------------
 
