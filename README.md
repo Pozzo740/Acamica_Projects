@@ -1,5 +1,27 @@
 # Acamica_Projects
 
+## Proyecto 4
+
+## Neural Networks (español)
+
+**Objetivo:** Implementar redes neuronales para intentar optimizar los resultados obtenidos en el proyecto anterior (Proyecto 3).
+
+**Preliminares**
+
+- Breve Análisis Exploratorio de Datos.
+- Normalización de los datos.
+
+**Modelos de *Machine Learning* **
+
+- Modelo *Benchmark*.
+- Optimización de Redes Neuronales.
+- Evaluación de la Red Neuronal optimizada.
+- Conclusiones.
+
+## Bibliografía
+
+------------------------------------------------------------------------------------------
+
 ## Proyecto 3
 
 ## Natural Language Processing (español)
