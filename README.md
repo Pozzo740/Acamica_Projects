@@ -11,7 +11,7 @@
 - Breve Análisis Exploratorio de Datos.
 - Normalización de los datos.
 
-**Modelos de *Machine Learning* **
+**Modelos de *Machine Learning***
 
 - Modelo *Benchmark*.
 - Optimización de Redes Neuronales.
