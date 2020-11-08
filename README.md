@@ -18,7 +18,7 @@
 - Evaluación de la Red Neuronal optimizada.
 - Conclusiones.
 
-## Bibliografía
+**Bibliografía**
 
 ------------------------------------------------------------------------------------------
 
