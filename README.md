@@ -34,7 +34,7 @@
 - Manejo de *Outliers*.
 - Valores faltantes.
 - Validación de datos.
-- Comparación de *peroformance* respecto al modelo del proyecto anterior.
+- Comparación de *performance* respecto al modelo del proyecto anterior.
 
 **Parte B - Modelos Avanzados**
 
@@ -45,7 +45,7 @@
 
 **Keywords:** Python, Español, Regresión, Scikit-Learn, Importancia de atributos, Regresión Lineal, XGboost, Optimización, Regularización, GridSearchCV, RandomizedSearchCV, One-Hot Encoding, Árbol de Decisión, Peso de Variables.
 
-![P2_](https://user-images.githubusercontent.com/62853837/99010564-ced90b80-250f-11eb-8448-80860eac9217.png)
+![P2](https://user-images.githubusercontent.com/62853837/99015904-92131180-251b-11eb-91eb-70d7be7d7403.png)
 
 ------------------------------------------------------------------------------------------
 
