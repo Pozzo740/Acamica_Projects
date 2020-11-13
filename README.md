@@ -1,28 +1,51 @@
 # Acamica_Projects
 
-## Proyecto 4
+## Proyecto 1
 
-## Neural Networks (español)
+## Análisis de Mercado Inmobiliario I
 
-**Objetivo:** Implementar redes neuronales para intentar optimizar los resultados obtenidos en el proyecto anterior (Proyecto 3).
+**Objetivo:** Desarrollar un modelo de *Machine Learning* que prediga precios de propiedades a partir de ciertos parámetros tomando un conjunto de datos de la empresa inmobiliaria *Properati*.
 
-**Preliminares**
+**Parte A - Análisis Exploratorio de Datos**
 
-- Breve Análisis Exploratorio de Datos.
-- Normalización de los datos.
+- Manejo de *Outliers*.
 
-**Modelos de *Machine Learning***
+**Parte B - Modelos de Machine Learning**
 
-- Modelo *Benchmark*.
-- Optimización de Redes Neuronales.
-- Evaluación de la Red Neuronal optimizada.
-- Conclusiones.
+- Árbol de Decisión.
+- Vecinos más cercanos.
 
-**Bibliografía**
+**Parte C - Conclusiones**
 
-**Keywords:** Python, Español, Redes Neuronales, Keras, Adam, SGD, EarlyStopping, ModelCheckpoint, Matriz de Confusión, NLTK, spaCy, Lematización, Tokenización, Vectorización, TfIdf-Vectorizer, Scikit-Learn, LinearSVC, Clasificación binaria.
+**Keywords:** Python, Español, Regresión, Scikit-Learn, Árbol de Decisión, Vecinos más cercanos.
 
-![NN](https://user-images.githubusercontent.com/62853837/98484053-7386e080-21d2-11eb-9c6f-d7f7b138ff5b.png)
+![P1](https://user-images.githubusercontent.com/62853837/99010400-9802f580-250f-11eb-83e7-a648e1c91b9c.png)
+
+------------------------------------------------------------------------------------------
+
+## Proyecto 2
+
+## Análisis de Mercado Inmobiliario II
+
+**Objetivo:** Mediante herramientas de *Machine Learning* más sofisticadas, intentar mejorar los resultados obtenidos en el proyecto anterior, el cual consistió en desarrollar un modelo que prediga precios de propiedades a partir de ciertos parámetros.
+
+**Parte A - Transformación de Datos**
+
+- Manejo de *Outliers*.
+- Valores faltantes.
+- Validación de datos.
+- Comparación de *peroformance* respecto al modelo del proyecto anterior.
+
+**Parte B - Modelos Avanzados**
+
+- Regresión Lineal.
+- Ensamble de Árboles (XGboost).
+
+**Parte C - Interpretación de Modelos**
+
+**Keywords:** Python, Español, Regresión, Scikit-Learn, Importancia de atributos, Regresión Lineal, XGboost, Optimización, Regularización, GridSearchCV, RandomizedSearchCV, One-Hot Encoding, Árbol de Decisión, Peso de Variables.
+
+![P2_](https://user-images.githubusercontent.com/62853837/99010564-ced90b80-250f-11eb-8448-80860eac9217.png)
 
 ------------------------------------------------------------------------------------------
 
@@ -57,49 +80,26 @@
 
 ------------------------------------------------------------------------------------------
 
-## Proyecto 2
+## Proyecto 4
 
-## Análisis de Mercado Inmobiliario II
+## Neural Networks (español)
 
-**Objetivo:** Mediante herramientas de *Machine Learning* más sofisticadas, intentar mejorar los resultados obtenidos en el proyecto anterior, el cual consistió en desarrollar un modelo que prediga precios de propiedades a partir de ciertos parámetros.
+**Objetivo:** Implementar redes neuronales para intentar optimizar los resultados obtenidos en el proyecto anterior (Proyecto 3).
 
-**Parte A - Transformación de Datos**
+**Preliminares**
 
-- Manejo de *Outliers*.
-- Valores faltantes.
-- Validación de datos.
-- Comparación de *peroformance* respecto al modelo del proyecto anterior.
+- Breve Análisis Exploratorio de Datos.
+- Normalización de los datos.
 
-**Parte B - Modelos Avanzados**
+**Modelos de *Machine Learning***
 
-- Regresión Lineal.
-- Ensamble de Árboles (XGboost).
+- Modelo *Benchmark*.
+- Optimización de Redes Neuronales.
+- Evaluación de la Red Neuronal optimizada.
+- Conclusiones.
 
-**Parte C - Interpretación de Modelos**
+**Bibliografía**
 
-**Keywords:** Python, Español, Regresión, Scikit-Learn, Importancia de atributos, Regresión Lineal, XGboost, Optimización, Regularización, GridSearchCV, RandomizedSearchCV, One-Hot Encoding, Árbol de Decisión, Peso de Variables.
+**Keywords:** Python, Español, Redes Neuronales, Keras, Adam, SGD, EarlyStopping, ModelCheckpoint, Matriz de Confusión, NLTK, spaCy, Lematización, Tokenización, Vectorización, TfIdf-Vectorizer, Scikit-Learn, LinearSVC, Clasificación binaria.
 
-![P2_](https://user-images.githubusercontent.com/62853837/99010564-ced90b80-250f-11eb-8448-80860eac9217.png)
-
-------------------------------------------------------------------------------------------
-
-## Proyecto 1
-
-## Análisis de Mercado Inmobiliario I
-
-**Objetivo:** Desarrollar un modelo de *Machine Learning* que prediga precios de propiedades a partir de ciertos parámetros tomando un conjunto de datos de la empresa inmobiliaria *Properati*.
-
-**Parte A - Análisis Exploratorio de Datos**
-
-- Manejo de *Outliers*.
-
-**Parte B - Modelos de Machine Learning**
-
-- Árbol de Decisión.
-- Vecinos más cercanos.
-
-**Parte C - Conclusiones**
-
-**Keywords:** Python, Español, Regresión, Scikit-Learn, Árbol de Decisión, Vecinos más cercanos.
-
-![P1](https://user-images.githubusercontent.com/62853837/99010400-9802f580-250f-11eb-83e7-a648e1c91b9c.png)
+![NN](https://user-images.githubusercontent.com/62853837/98484053-7386e080-21d2-11eb-9c6f-d7f7b138ff5b.png)
